@@ -1,0 +1,19 @@
+{
+  "name": "hello-mars",
+  "version": "1.0.0",
+  "description": "Prove di utlizzo npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiobosio/npm-tutorial.git"
+  },
+  "author": "Fabio Bosio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabiobosio/npm-tutorial/issues"
+  },
+  "homepage": "https://github.com/fabiobosio/npm-tutorial#readme"
+}
